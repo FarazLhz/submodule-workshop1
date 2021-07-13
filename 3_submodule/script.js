@@ -1,0 +1,1 @@
+console.log("I am script of 3 submodule");
